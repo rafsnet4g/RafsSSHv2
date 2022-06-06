@@ -15,5 +15,5 @@ bash <(wget -qO- raw.githubusercontent.com/rafsnet4g/RafsSSHv2/main/Plus)
 ```
 bash <(wget -qO- raw.githubusercontent.com/rafsnet4g/RafsSSHv2/main/senharoot.ssh)
 ```
-![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/menu1.PNG)
-![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/menu2.PNG)
+![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/menu1.png)
+![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/menu2.png)
