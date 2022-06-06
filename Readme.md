@@ -1,5 +1,9 @@
 # PROJETO RAFS NET 4G SSH V2
 
+# Sistema Operacional Testados
+''''
+Ubuntu 16 / Ubuntu 18 / Ubuntu 20 / Debian 9
+''''
 
 # Atualizar Pacotes do Sistema
 ```
