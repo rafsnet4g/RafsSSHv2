@@ -18,3 +18,4 @@ wget https://raw.githubusercontent.com/rafsnet4g/RafsSSHv2/main/senharoot.ssh &&
 ![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/Sem%20t%C3%ADtulo1.png)
 ![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/Sem%20t%C3%ADtulo2.png)
 ![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/Sem%20t%C3%ADtulo3.png)
+![logo](https://github.com/rafsnet4g/RafsSSHv2/blob/main/imagens/Sem%20t%C3%ADtulo4.png)
