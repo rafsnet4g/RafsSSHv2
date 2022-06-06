@@ -1,6 +1,6 @@
 #===================================================
 #	SCRIPT: RAFS NET 4G SSH
-#	DESENVOLVIDO POR:	RAFS NET 4G
+#	DESENVOLVIDO POR: RAFS NET 4G
 #===================================================
 clear
 [[ "$(whoami)" != "root" ]] && {
