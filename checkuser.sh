@@ -32,7 +32,7 @@ clear
 echo ""
 echo -e "\E[44;1;37m   INSTALADOR CHECK USER ONLINE   \E[0m"
 echo ""
-echo -e "     \033[1;31mSTARTNET @startnetplus\033[1;36m"
+echo -e "     \033[1;31mRAFS NET 4G - @rafsnet4g\033[1;36m"
 echo ""
 echo -e "\E[44;1;37m                                  \E[0m"
 echo ""
